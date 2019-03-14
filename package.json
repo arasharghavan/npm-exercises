@@ -1,0 +1,29 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arasharghavan/npm-exercises.git"
+  },
+  "author": "codeUp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arasharghavan/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/arasharghavan/npm-exercises#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
